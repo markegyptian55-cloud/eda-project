@@ -4,7 +4,9 @@ venv/
 env/
 
 # ─── Outputs (generated at runtime) ──────────────────────────────────────────
-outputs/
+outputs/figures/
+outputs/*.log
+outputs/cleaned_data.csv
 
 # ─── Python Cache ─────────────────────────────────────────────────────────────
 __pycache__/
